@@ -1,3 +1,3 @@
-💻 #Today Soha Learned
+# Today Soha Learned 💻
 
 - 2024.01.18~
